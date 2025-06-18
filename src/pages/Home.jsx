@@ -1,10 +1,12 @@
-import React from 'react'
-import HeaderSection from '../components/HeaderSection'
+import React from "react";
+import HeaderSection from "../components/HeaderSection";
 
 const Home = () => {
   return (
-    <div><HeaderSection/></div>
-  )
-}
+    <>
+      <HeaderSection />
+    </>
+  );
+};
 
-export default Home
+export default Home;
