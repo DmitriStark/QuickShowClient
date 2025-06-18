@@ -5,3 +5,4 @@ using clerk
 using react-router-dom
 using lucid-icons
 using reactPlayer
+used prebuild ui for footer section
