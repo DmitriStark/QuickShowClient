@@ -28,7 +28,8 @@ const NavBar = () => {
         />
         <Link
           onClick={() => {
-            scrollTo(0, 0), setIsMenuOpen(false);
+            scrollTo(0, 0);
+            setIsMenuOpen(false);
           }}
           to="/"
         >
@@ -36,7 +37,8 @@ const NavBar = () => {
         </Link>
         <Link
           onClick={() => {
-            scrollTo(0, 0), setIsMenuOpen(false);
+            scrollTo(0, 0);
+            setIsMenuOpen(false);
           }}
           to="/movies"
         >
@@ -44,7 +46,8 @@ const NavBar = () => {
         </Link>
         <Link
           onClick={() => {
-            scrollTo(0, 0), setIsMenuOpen(false);
+            scrollTo(0, 0);
+            setIsMenuOpen(false);
           }}
           to="/"
         >
@@ -52,7 +55,8 @@ const NavBar = () => {
         </Link>
         <Link
           onClick={() => {
-            scrollTo(0, 0), setIsMenuOpen(false);
+            scrollTo(0, 0);
+            setIsMenuOpen(false);
           }}
           to="/"
         >
@@ -60,7 +64,8 @@ const NavBar = () => {
         </Link>
         <Link
           onClick={() => {
-            scrollTo(0, 0), setIsMenuOpen(false);
+            scrollTo(0, 0);
+            setIsMenuOpen(false);
           }}
           to="/favorite"
         >
