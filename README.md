@@ -1,4 +1,4 @@
-this is quickshow cinema app client
+this is quickshow cinema web client
 using tailwind
 using vite-react javascript
 using clerk
